@@ -17,3 +17,5 @@ formating and condencing the css file
 
 ## Usage 
 the following image shows the desired result 
+![[The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/SEO-Project-updated-image.png)
+
