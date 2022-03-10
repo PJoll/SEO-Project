@@ -31,4 +31,4 @@ The goal of the project is to complete the market angencies demands to set up a 
 The following image shows the completed result.
 
 
-![alt text](./images/SEO-Project-updated-image.png)
+![alt text](./Assets/assets/images/SEO-Project-updated-image.png)
